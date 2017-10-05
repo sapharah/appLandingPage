@@ -1,2 +1,2 @@
 # appLandingPage
-This is an app landing page I using HTML, CSS, and boostrap. The goal was to test out the boostrap components.
+This is an app landing page I created using HTML, CSS, and Bootstrap. The goal was to test out the boostrap components.
